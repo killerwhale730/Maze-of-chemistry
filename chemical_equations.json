@@ -1,0 +1,227 @@
+[
+    {
+        "reactants": ["H2", "O2"],
+        "products": ["H2O"],
+        "balanced": "2H2 + O2 -> 2H2O"
+    },
+    {
+        "reactants": ["C", "O2"],
+        "products": ["CO2"],
+        "balanced": "C + O2 -> CO2"
+    },
+    {
+        "reactants": ["CH4", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "CH4 + 2O2 -> CO2 + 2H2O"
+    },
+    {
+        "reactants": ["N2", "H2"],
+        "products": ["NH3"],
+        "balanced": "N2 + 3H2 -> 2NH3"
+    },
+    {
+        "reactants": ["Na", "Cl2"],
+        "products": ["NaCl"],
+        "balanced": "2Na + Cl2 -> 2NaCl"
+    },
+    {
+        "reactants": ["KClO3"],
+        "products": ["KCl", "O2"],
+        "balanced": "2KClO3 -> 2KCl + 3O2"
+    },
+    {
+        "reactants": ["CaCO3"],
+        "products": ["CaO", "CO2"],
+        "balanced": "CaCO3 -> CaO + CO2"
+    },
+    {
+        "reactants": ["Fe", "O2"],
+        "products": ["Fe2O3"],
+        "balanced": "4Fe + 3O2 -> 2Fe2O3"
+    },
+    {
+        "reactants": ["Zn", "HCl"],
+        "products": ["ZnCl2", "H2"],
+        "balanced": "Zn + 2HCl -> ZnCl2 + H2"
+    },
+    {
+        "reactants": ["Al", "O2"],
+        "products": ["Al2O3"],
+        "balanced": "4Al + 3O2 -> 2Al2O3"
+    },
+    {
+        "reactants": ["HCl", "NaOH"],
+        "products": ["NaCl", "H2O"],
+        "balanced": "HCl + NaOH -> NaCl + H2O"
+    },
+    {
+        "reactants": ["Na", "H2O"],
+        "products": ["NaOH", "H2"],
+        "balanced": "2Na + 2H2O -> 2NaOH + H2"
+    },
+    {
+        "reactants": ["C2H4", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "C2H4 + 3O2 -> 2CO2 + 2H2O"
+    },
+    {
+        "reactants": ["Mg", "O2"],
+        "products": ["MgO"],
+        "balanced": "2Mg + O2 -> 2MgO"
+    },
+    {
+        "reactants": ["H2SO4", "NaOH"],
+        "products": ["Na2SO4", "H2O"],
+        "balanced": "H2SO4 + 2NaOH -> Na2SO4 + 2H2O"
+    },
+    {
+        "reactants": ["CO", "O2"],
+        "products": ["CO2"],
+        "balanced": "2CO + O2 -> 2CO2"
+    },
+    {
+        "reactants": ["NH3", "HCl"],
+        "products": ["NH4Cl"],
+        "balanced": "NH3 + HCl -> NH4Cl"
+    },
+    {
+        "reactants": ["C6H12O6", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "C6H12O6 + 6O2 -> 6CO2 + 6H2O"
+    },
+    {
+        "reactants": ["FeS", "HCl"],
+        "products": ["H2S", "FeCl2"],
+        "balanced": "FeS + 2HCl -> H2S + FeCl2"
+    },
+    {
+        "reactants": ["AgNO3", "NaCl"],
+        "products": ["AgCl", "NaNO3"],
+        "balanced": "AgNO3 + NaCl -> AgCl + NaNO3"
+    },
+    {
+        "reactants": ["K", "H2O"],
+        "products": ["KOH", "H2"],
+        "balanced": "2K + 2H2O -> 2KOH + H2"
+    },
+    {
+        "reactants": ["SO2", "O2"],
+        "products": ["SO3"],
+        "balanced": "2SO2 + O2 -> 2SO3"
+    },
+    {
+        "reactants": ["P4", "O2"],
+        "products": ["P2O5"],
+        "balanced": "P4 + 5O2 -> 2P2O5"
+    },
+    {
+        "reactants": ["Cu", "AgNO3"],
+        "products": ["Cu(NO3)2", "Ag"],
+        "balanced": "Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag"
+    },
+    {
+        "reactants": ["Ca", "H2O"],
+        "products": ["Ca(OH)2", "H2"],
+        "balanced": "Ca + 2H2O -> Ca(OH)2 + H2"
+    },
+    {
+        "reactants": ["H2", "Cl2"],
+        "products": ["HCl"],
+        "balanced": "H2 + Cl2 -> 2HCl"
+    },
+    {
+        "reactants": ["H2", "Br2"],
+        "products": ["HBr"],
+        "balanced": "H2 + Br2 -> 2HBr"
+    },
+    {
+        "reactants": ["N2O5"],
+        "products": ["NO2", "O2"],
+        "balanced": "2N2O5 -> 4NO2 + O2"
+    },
+    {
+        "reactants": ["H2S", "O2"],
+        "products": ["SO2", "H2O"],
+        "balanced": "2H2S + 3O2 -> 2SO2 + 2H2O"
+    },
+    {
+        "reactants": ["KClO4"],
+        "products": ["KCl", "O2"],
+        "balanced": "KClO4 -> KCl + 2O2"
+    },
+    {
+        "reactants": ["C3H8", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "C3H8 + 5O2 -> 3CO2 + 4H2O"
+    },
+    {
+        "reactants": ["Na2O", "H2O"],
+        "products": ["NaOH"],
+        "balanced": "Na2O + H2O -> 2NaOH"
+    },
+    {
+        "reactants": ["Cl2", "H2O"],
+        "products": ["HCl", "HClO"],
+        "balanced": "Cl2 + H2O -> HCl + HClO"
+    },
+    {
+        "reactants": ["C2H6", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "2C2H6 + 7O2 -> 4CO2 + 6H2O"
+    },
+    {
+        "reactants": ["Ca(OH)2", "HCl"],
+        "products": ["CaCl2", "H2O"],
+        "balanced": "Ca(OH)2 + 2HCl -> CaCl2 + 2H2O"
+    },
+    {
+        "reactants": ["Pb(NO3)2", "KI"],
+        "products": ["PbI2", "KNO3"],
+        "balanced": "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3"
+    },
+    {
+        "reactants": ["BaCl2", "H2SO4"],
+        "products": ["BaSO4", "HCl"],
+        "balanced": "BaCl2 + H2SO4 -> BaSO4 + 2HCl"
+    },
+    {
+        "reactants": ["Na2CO3", "HCl"],
+        "products": ["NaCl", "H2O", "CO2"],
+        "balanced": "Na2CO3 + 2HCl -> 2NaCl + H2O + CO2"
+    },
+    {
+        "reactants": ["NaHCO3", "HCl"],
+        "products": ["NaCl", "H2O", "CO2"],
+        "balanced": "NaHCO3 + HCl -> NaCl + H2O + CO2"
+    },
+    {
+        "reactants": ["FeCl3", "NH4OH"],
+        "products": ["Fe(OH)3", "NH4Cl"],
+        "balanced": "FeCl3 + 3NH4OH -> Fe(OH)3 + 3NH4Cl"
+    },
+    {
+        "reactants": ["CuO", "HCl"],
+        "products": ["CuCl2", "H2O"],
+        "balanced": "CuO + 2HCl -> CuCl2 + H2O"
+    },
+    {
+        "reactants": ["SO3", "H2O"],
+        "products": ["H2SO4"],
+        "balanced": "SO3 + H2O -> H2SO4"
+    },
+    {
+        "reactants": ["Zn", "CuSO4"],
+        "products": ["ZnSO4", "Cu"],
+        "balanced": "Zn + CuSO4 -> ZnSO4 + Cu"
+    },
+    {
+        "reactants": ["KNO3"],
+        "products": ["KNO2", "O2"],
+        "balanced": "2KNO3 -> 2KNO2 + O2"
+    },
+    {
+        "reactants": ["C2H5OH", "O2"],
+        "products": ["CO2", "H2O"],
+        "balanced": "C2H5OH + 3O2 -> 2CO2 + 3H2O"
+    }
+]
